@@ -47,17 +47,11 @@
         },
         {
           "img": "/img/uploads/27812-41c0a0f6931db0f2bd50cd689484bc92.jpg"
-        },
-        {
-          "img": "/img/uploads/27812-8d98ece9c98173d0e2f34c976a2f80e7-1-.jpg"
-        },
-        {
-          "img": "/img/uploads/27812-229969-7.jpg"
-        },
-        {
-          "img": "/img/uploads/27812-179019f9648e8157291ccde521a8f208.jpg"
         }
       ]
+    },
+    {
+      "type": "banners-grid"
     },
     {
       "type": "collection-shelf",
