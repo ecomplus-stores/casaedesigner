@@ -1,11 +1,11 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Casa e Designer",
+    "text": "Decoração de qualidade e bom gosto. Todos os artigos de decoração e ambientes exclusivos e personalisados para transmitir, a essência do seu ambiente. Entregamos para todo o Brasil. Romanos: 12.2"
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Sobre nós",
     "list": []
   },
   "links_2": {
@@ -27,20 +27,21 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
