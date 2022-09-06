@@ -31,7 +31,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "",
+      "title": "Mais Vendidos",
       "headless": false,
       "limit": 12,
       "page": 1
