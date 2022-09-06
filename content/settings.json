@@ -1,25 +1,25 @@
 {
-  "store_id": 27812,
-  "name": "casaedesigner",
   "domain": "casaedesigner.netlify.app",
-  "short_name": "casaedesigner",
-  "description": "casaedesigner",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#0055c3",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/27812-1644796400751-casa-e-designer-1-removebg-preview.png",
+  "name": "casaedesigner",
+  "short_name": "casaedesigner",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/27812-1644796400751-casa-e-designer-1-removebg-preview.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/27812-1644796400751-casa-e-designer-1-removebg-preview.png",
+  "store_id": 27812,
+  "description": "casaedesigner",
+  "large_icon": "/img/uploads/27812-1644796400751-casa-e-designer-1-removebg-preview.png"
 }
