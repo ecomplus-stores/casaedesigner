@@ -1,7 +1,7 @@
 {
   "domain": "casaedesigner.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0055c3",
+  "primary_color": "#393e46",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "clean-gray"
@@ -13,11 +13,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Merriweather",
   "favicon": "/img/uploads/27812-1644796400751-casa-e-designer-1-removebg-preview.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#64696d",
   "icon": "/img/uploads/27812-1644796400751-casa-e-designer-1-removebg-preview.png",
   "store_id": 27812,
   "description": "casaedesigner",
