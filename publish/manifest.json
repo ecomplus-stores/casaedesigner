@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.297ca020dbfa70951af247ecbed974cb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d48390ef4b857812338c1f7449204c0b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.022a604a5df74cdd0b27a8eeb75734a0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.31a6cec69a619f7795fd733979ec7171.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.cce4e444c37a15a040f8792764a1ac9f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Casa e Designer",
+  "short_name": "casaedesigner",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "casaedesigner",
+  "background_color": "#ffffff",
+  "theme_color": "#393e46"
+}
